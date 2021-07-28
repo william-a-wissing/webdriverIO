@@ -6,7 +6,7 @@ const mainPageUrl = 'https://ultimateqa.com/simple-html-elements-for-automation/
 
 
 
-describe('Automation for simple html elements for', () => {
+describe('Automation for simple html elements', () => {
 
     describe('Automation for simple controls section', () => {
         beforeEach(async () => {

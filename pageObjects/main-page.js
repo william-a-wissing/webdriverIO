@@ -26,10 +26,10 @@ class MainPage {
     }
 
     async selectAudiDropDownOption(){
-        await this.otherRadioButton().click();
+        await this.audiDropDownOption().click();
     }
 
-    async getautomationArchitectSalaryText(){
+    async getAutomationArchitectSalaryText(){
         await this.automationArchitectSalary().getText();
     }
 
